@@ -16,7 +16,7 @@ My credentials include a Technical degree at Instituto Federal de Educação Ci�
 **Links:**
 * [Site](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/walberaraujo/)
-* [Medium](https://medium.com/me/stories/public)
+* [Medium](https://medium.com/)
 
 
 ## Projetos:
