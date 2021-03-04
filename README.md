@@ -22,7 +22,7 @@ My credentials include a Technical degree at Instituto Federal de Educação Ci�
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Analisando os dados do Airbnb:** https://bit.ly/2L2cMwy
+* **Analisando os dados do Airbnb:** https://bit.ly/3kIwspu
 
 
 ---
